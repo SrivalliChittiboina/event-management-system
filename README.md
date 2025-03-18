@@ -1,1 +1,1 @@
-Wecome to event management system
+Wecome to Sam's events.
